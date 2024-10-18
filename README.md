@@ -12,7 +12,7 @@ This Python program manages a vehicle inventory stored in a CSV file. It allows 
 ## How to Run:
 1. Clone or download the repository to your local machine.
 2. Ensure you have Python 3.x installed.
-3. The CSV file (`vehicle_inventory.csv`) should coms with the repository. 
+3. The CSV file (`vehicle_inventory.csv`) should come with the repository. 
 4. Simply run the program and proceed as prompted.
 5. A menu should be prompted as follows:
        Menu:
